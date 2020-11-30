@@ -1,0 +1,64 @@
+ 
+.tesi{
+  float: right; 
+  width: 20%;
+  padding-top: 10px;
+}
+.gob{
+  float: left;
+  width: 16%;
+  padding-left: 15px;
+}
+.tec{
+  font-family:calibriblack; 
+   padding-top: 20px;
+   font-size: 16.5px;
+   padding-left: 20px;
+}
+.kardex{
+  padding-left: 210px;
+  font-family:calibriblack;
+  font-size: 16.5px;
+}
+.emitido{
+  padding-left: 130px;
+  font-family:calibriblack;
+  font-size: 14.5px;
+}
+table, .creditosCub{
+  font-size: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.creditosCub{
+  padding-left: 3px;
+}
+.infoAlumno{
+  padding: 35px 0px 35px 40px;
+}
+.matcursadas{
+  padding-left: 18%;
+}
+.matcursadasNum{
+  padding-right:18%;
+}
+.infoMaterias{
+  font-size: 8px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 25px;
+}
+td.tableKardex {
+  text-align: center!important;
+}
+.qrKardex{
+  float: left;
+  padding-top:  1.4rem;  
+}
+.tableTx{
+    padding-top: 88.5rem ;
+    padding-left: 13rem;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.conTx{
+  border: 1px solid black;
+}

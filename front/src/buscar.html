@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="css/css.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">    
+    <link rel="stylesheet" href="plantillas/style.css">
+    <script src="js/jquery.slim.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+<!-- jQuery UI library -->
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <meta charset="UTF-8">
+
+  
+    <script>
+      $(function(){
+        $("#matricula").autocomplete({
+            source: "matricula.php",
+            minLength:6,
+        });
+      });
+    </script>
+    <title>Buscar Alumno</title>
+</head>
+<body>
+
+    <div class="container-fluid">
+  <div class="row no-gutter">
+    <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
+    <div class="col-md-8 col-lg-6">
+      <div class="login d-flex align-items-center py-5">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-9 col-lg-8 mx-auto">
+              <h3 class="login-heading mb-4">Certificados Académicos</h3>
+              <form action="registrarCert.php" method="POST">
+                <div class="form-label-group">
+                  <input type="tel" id="matricula" name="ma" class="form-control" placeholder="Matricula" required autofocus>
+                  <label for="matricula">Matricula</label>
+                </div>
+                <div class="text-center">
+                  Registrado en el departamento de control escolar
+                </div>
+                <div class="form-label-group">
+                  <input type="text" id="ConNo" name="conNo"class="form-control" placeholder="Con No." required autocomplete="off">
+                  <label for="ConNo">Con No.</label>
+                </div>
+                <div class="form-label-group">
+                  <input type="text" id="libro" name="libro" class="form-control" placeholder="Libro" required>
+                  <label for="libro">Libro</label>
+                </div>
+                <div class="form-label-group">
+                  <input type="text" id="Fojas" name="fojas" class="form-control" placeholder="A Fojas" required>
+                  <label for="Fojas">A Fojas</label>
+                </div>
+                <div class="form-label-group">
+                  <input type="text" id="folio" name="folio" class="form-control" placeholder="Folio" required>
+                  <label for="folio">Folio</label>
+                </div>
+
+                <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit">Buscar</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

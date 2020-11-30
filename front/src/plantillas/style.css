@@ -1,0 +1,434 @@
+.p{
+  border: 1px solid black;
+  padding:  1px;
+}
+
+.tesi{
+  float: right; 
+  width: 25%;
+  padding-top: 7px;
+}
+.gob{
+  float: left;
+  width: 20%;
+}
+
+.tec{
+  padding-left: 20px;
+  font-family:calibriblack; 
+   padding-top: 20px;
+   font-size: 14.5px;
+}
+.organ{
+  padding-left: 35px;
+  font-family:timesblack; 
+  font-size: 7.7px;
+   
+}
+.cert{
+  padding-left: 118px;
+  font-family:timesblack;
+ font-size: 8px;
+
+}
+
+.claveCCT{
+  padding-left: 118px;
+  font-family:calibri;
+  float: left;
+  width: 28%;
+  font-size: 8px;
+   
+}
+.clave15{
+  font-family:calibri;
+  font-size: 8px;
+  padding-bottom: 60px;
+
+}
+
+.noCert .leyCert .h{
+  margin-top: 0px;
+}
+
+.matricula{
+  padding-top: 15px;
+
+}
+
+.tableMatricula{
+  border: 1px solid black;
+  width: 30%;
+}
+ .thMatricula{
+  border: 1px solid black;
+  font-size: 9px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-family:calibri;
+
+}
+.tdMatricula{
+  padding-top: 20px;
+  padding-left:25px;
+  font-size: 12.0px;
+  padding-right: 15px;
+  padding-bottom: 20px;
+  font-family:calibriblack;
+}
+.LaC{
+  width: 82.5%;
+  float: right;
+  font-size: 9.5px;
+  font-family:calibri;
+
+}
+.lines{
+  padding-top: 3px;
+  font-family:calibri;
+  width: 8%;
+  float: left;
+}
+.lineDir{
+  padding-top: 3px;
+  font-family:calibri;
+  float: left;
+  width: 55%;
+}
+.nomDir{
+  font-size: 12px;
+  font-family: calibriblack;
+  float: left;
+  width: 36.2%;
+}
+.lineen{
+  padding-top: 3px;
+  font-family:calibri;
+}
+.linede{
+  padding-top: 3px;
+  font-family:calibri;
+  width: 9%;
+  float: left;
+}
+.registro{
+  font-family:calibriblack;
+  float: left;
+  width: 17%;
+  padding-top: 3px; 
+}
+.lineDeP{
+  padding-top: 3px;
+  width: 39%;
+  float: left;
+}
+.nomAlum{
+  font-family:calibriblack;
+  font-size: 12px;
+  float: left;
+  width: 60%;
+}
+.line{
+  padding-top: 3px;
+  font-family:calibri;
+}
+
+.tableCal{
+  float: right;
+  width: 79.5%;
+  border: 1px solid black;
+  padding:0.5px;
+}
+.dataAlum{
+  float: left;
+  padding-left: 10px;
+}
+.semestre{
+  border: 1px solid black;
+  font-size: 10px;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family:calibriblack;
+}
+.agnio{
+  border: 1px solid black;
+  font-size: 10px;
+  text-align: center;
+  font-family:calibriblack;
+  width: 6%;
+}
+
+.header{
+  padding-left: 40px;
+}
+.tableData{
+  padding-left: 20px;
+  height: 50%;
+}
+
+.calif{
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom:  1px solid black;
+  font-size: 10px;
+  text-align: center;
+  font-family:calibriblack;
+
+}
+.ord{
+  border-top: 1px solid black;
+  border-right: : 1px solid black;
+  border-bottom: 1px solid black;
+  font-size: 10px;
+  text-align: center;
+
+}
+.rowOrd{
+  font-size: 10px;
+  border-top: 1px solid black;
+  border-right: : 1px solid black;
+  border-bottom: 1px solid black;
+  text-align: center;
+  font-family:calibri;
+}
+.rowSem{
+  border: 1px solid black;
+  font-size: 10px;
+  margin-left: 10px;
+  width: 32.5%;
+  font-family:calibri;
+}
+.materia{
+  font-size: 10px;
+  font-family:calibri;
+}
+.rowAgnio{
+  border: 1px solid black;
+  font-size: 10px;
+  text-align: center;
+  font-family:calibri;
+}
+.rowCal{
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom:  1px solid black;
+  font-size: 10px;
+  text-align: center;
+  font-family:calibri;
+}
+
+.carrera{
+  text-align: center;
+  padding-left: 70px;
+  font-family:calibriblack;
+}
+.i{
+  border-right: 1px solid  black ;
+}
+.firmaAlumno{
+  padding-top: 80px;
+  font-family:calibri;
+  font-size: 9px;
+  padding-bottom: 30px;
+}
+.noCert{
+  padding-top: 10px;
+  font-size: 9px;
+  font-family: calibri;
+  border: 1px solid black;
+  width: 85%;
+  height: 17%;
+}
+.leyCert{
+  padding-top: 3px;
+  text-align: center;
+}
+.leyNoCert{
+  padding-top: 15px;
+  padding-left: 10px;
+}
+.f{
+  padding-top: 40px;
+}
+.pieP{
+  float: right;
+  width: 77.5%;
+  padding-top: 10px;
+}
+.nota{
+  font-size: 7px;
+  font-family: calibri;
+  margin-top: 2px;
+}
+.notaEscala{
+  padding-left: 50px;
+  font-size: 7px;
+  font-family: calibri;
+}
+.or{
+  padding-left: 32px;
+  float: left;
+  width: 16.6%;
+  font-size: 7px;
+  font-family: calibri;
+  margin-left: 5px;
+}
+
+.eex{
+  width: 20%;
+  float: left;
+  font-size: 7px;
+  font-family: calibri;
+  margin-left: 5px;
+}
+.esu{
+  width: 16.6%;
+  float: left;
+  font-family: calibri;
+  font-size: 7px;
+  margin-left: 23px;
+}
+.rec{
+  width: 16.6%;
+  float: left;
+  font-size: 7px;
+  font-family: calibri;
+  margin-left: 5px;
+}
+.eq{
+  width: 16.6%;
+  float: left;
+  font-size: 7px;
+  font-family: calibri;
+  margin-left: 5px;
+}
+.promedio{
+  margin-top: 10px;
+  font-size: 7px;
+  font-family: calibri;
+  padding-left: 50px;
+
+}
+.num{
+  font-size: 12px;
+  font-family: calibriblack;
+}
+
+.datosLlenar{
+  font-size: 10px;
+  font-family: calibriblack;
+}
+.nums{
+  font-size: 10px;
+  font-family: calibriblack;
+}
+.NumLet{
+  margin-top: 5px;
+  margin-left: 120px;
+  font-size: 7px;
+  font-family: calibri;
+  
+}
+.numL{
+  float: left;
+  width: 28%;
+}
+.letL{
+  float: left;
+  margin-bottom: 10px;
+}
+.leye{
+  font-family:calibri;
+  font-size: 9px;
+  margin-bottom: 5px;
+}
+.dir{
+  margin-top: 20px;
+  float: left;
+  width: 35%;
+  padding-left: 80px;
+  font-family:calibriblack;
+  font-size: 10px;
+}
+.dirs{
+  float: left;
+  padding-left: 80px;
+  font-family:calibriblack;
+  font-size: 10px;
+}
+.dirLi{
+  margin-top: 45px;
+  float: left;
+  width: 35%;
+  padding-left: 40px;
+  font-family:calibriblack;
+  font-size: 10px;
+}
+.dirsLi{
+  float: left;
+  padding-left: 75px;
+  font-family:calibriblack;
+  font-size: 10px;
+}
+.dirNo{
+  float: left;
+  width: 35%;
+  padding-left: 40px;
+  font-family:calibriblack;
+  font-size: 10px;
+}
+.dirsNo{
+  float: left;
+  padding-left: 75px;
+  font-family:calibriblack;
+  font-size: 10px;
+  margin-bottom: 20px;
+}
+.sep{
+  padding-left: 30px;
+  margin-top: 40px;
+}
+.cen{
+  margin-top: 30px;
+  padding-left:40px; 
+}
+.ce{
+  padding-left:25px;
+}
+.c{
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
+body{
+    
+}
+
+html {
+  line-height: 1;
+}
+
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+caption, th, td {
+  padding-left: 5px;
+  font-weight: normal;
+  vertical-align: middle;
+}
+th, td .spaceCal{
+  r
+}
+.qr{
+  margin-top: 10%;
+  margin-left: 35%;
+
+}
+.ui-menu-item-wrapper {
+  background-color: white;
+  border-radius: 30px;
+}
+

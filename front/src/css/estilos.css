@@ -1,0 +1,52 @@
+.header{
+    border: 5px solid black; 
+}
+.elements{
+    border: 5px solid black;
+    float: left;
+}
+.gob{
+    padding-left: 20px;
+}
+.tec{
+    font-family: "Arial Black", Gadget, sans-serif;
+    padding-top: 10%;
+}
+.organ{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 10.3px;
+    padding-left: 25px; 
+    padding-top: 5px;
+}
+.cert{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 10.3px;
+    padding-left: 143px; 
+}
+.claveCCT{
+    font-family: "Arial", Gadget, sans-serif;
+    font-size: 10.3px;
+    padding-left: 143px;
+}
+.clave15{
+    font-family: "Arial", Gadget, sans-serif;
+    font-size: 10.3px;
+    padding-left: 47px;
+}
+.claves{
+    display: grid;
+    grid-template-columns: 250px 200px;
+}
+.imgTESI{
+    padding-top: 30px;
+}
+.datos{
+    display: grid;
+     grid-template-columns: 1fr 4fr;
+}
+div{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 10.3px;
+    padding-left: 47px;
+}
+

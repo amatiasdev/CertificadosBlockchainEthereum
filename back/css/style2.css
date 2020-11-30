@@ -1,0 +1,148 @@
+
+.nombreDir{
+  	margin-left: 235px;
+  	padding-top: 45px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 8pt;font-weight: bold;
+}
+.Reg{
+  	margin-left: 235px;
+  	padding-top: 4.76px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 4pt;font-weight: bold;
+}
+.nombreAl{
+  	margin-left: 415.13px;
+  	padding-top: 4.76px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 8pt;font-weight: bold;
+}
+.matricula{
+  	margin-left: 64.97px;
+  	padding-top: 8.57px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 8pt;font-weight: bold;
+}
+.carrera{
+  	margin-left: 342.93px;
+  	padding-top: 7.61px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 8pt;font-weight: bold;
+}
+
+.semestre1{
+  	margin-left: 0px;
+  	padding-top: 0px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;	
+}
+.semestre2{
+  	margin-left: 15px;
+  	padding-top: 0px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;	
+}
+.cal{
+  	margin-left: 15.87px;
+  	padding-top: 0px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;
+}
+.periodo{
+  	margin-left: 10.43px;
+  	padding-top: 0px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;
+}
+.examen{
+	margin-left: 10.82px;
+  	padding-top: 0px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;
+}
+.semestre3{
+  	margin-left: 0px;
+  	padding-top: 39.70px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: normal;	
+}
+.tableCal{
+  float: right;
+  width: 79.5%;
+  padding:0.5px;
+  padding-top: 39.70px;
+
+}
+.mabajo{
+padding-top: 3.80px;
+}
+.tableData{
+  padding-left: 20px;
+  height: 50%;
+}
+.dataAlum{
+  float: left;
+  padding-top: 560.28px;
+  margin-left: 75.80px;
+}
+
+.leyNoCertn{
+  margin-left: 14.43px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 5pt;font-weight: normal;
+}
+.leyNoCert{
+  padding-top: 26.6px;
+  margin-left: 31px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 5pt;font-weight: normal;
+}
+.f{
+  padding-top: 36,09px;
+  margin-left: 0px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 5pt;font-weight: normal;
+}
+.promedio{
+  padding-top: 80.0px;
+  margin-left: 281.56px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 8pt;font-weight: bold;
+}
+.pletra{
+  padding-left: 70.0px;
+}
+.leycred{
+  padding-top: 60.0px;
+  margin-left: 350px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 7pt;font-weight: bold;
+}
+.totalcre{
+  padding-left: 108.29px;
+}
+.matcur{
+	padding-left: 25.26px;
+}
+.totalmat{
+	padding-left: 122.73px;
+}
+
+.leycred2{
+  padding-top: 20.0px;
+  margin-left: 259.90px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 6pt;font-weight: bold;
+}
+.clave{
+  font-family:  "Gill Sans MT", sans-serif; font-size: 4pt;font-weight: bold;
+}
+.diames{
+	padding-left: 155.22px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 4pt;font-weight: bold;
+}
+.agnio{
+	padding-left: 25.26px
+}
+.aldiames{
+	padding-left: 18.05px;
+	font-family:  "Gill Sans MT", sans-serif; font-size: 4pt;font-weight: bold;
+}
+.alagnio{
+	padding-left: 21.65px;
+}
+
+.leycred3{
+  padding-top: 20.0px;
+  margin-left: 231.02px;
+  font-family:  "Gill Sans MT", sans-serif; font-size: 7pt;font-weight: bold;
+}
+.mes{
+	padding-left: 79.41px;
+}
+.dece{
+	padding-left: 36.09px;
+}
